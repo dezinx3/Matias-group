@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matias-group.vercel.app/sitemap.xml
